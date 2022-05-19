@@ -1,5 +1,5 @@
 // api url
-const api_url = "https://employeedetails.free.beeceptor.com/my/api/path";
+const api_url = "https://developer.nps.gov/api/v1/parks?&api_key=";
 
 // Defining async function
 async function getapi(url) {
